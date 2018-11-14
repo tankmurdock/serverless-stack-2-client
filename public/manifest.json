@@ -1,6 +1,6 @@
 {
-  "short_name": "Scratch",
-  "name": "Scratch Note Taking App",
+  "short_name": "Salonify",
+  "name": "A Simple App for Stylists and Clients",
   "icons": [
     {
       "src": "android-chrome-192x192.png",

@@ -64,7 +64,7 @@ export default class Home extends Component {
       <div className="lander">
         <h1>Salonify</h1>
         <p>A simple app for stylists and clients</p>
-        <img src="salonify1.png" alt="Salonify Logo" width="42" height="42"></img>
+        <img src="salonify1.png" alt="Salonify Logo" width="200" height="200"></img>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
             Login

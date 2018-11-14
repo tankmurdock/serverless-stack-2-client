@@ -64,6 +64,7 @@ export default class Home extends Component {
       <div className="lander">
         <h1>Salonify</h1>
         <p>A simple app for stylists and clients</p>
+        <img src="salonify1.png" alt="Salonify Logo" width="42" height="42"></img>
         <div>
           <Link to="/login" className="btn btn-info btn-lg">
             Login
@@ -71,7 +72,7 @@ export default class Home extends Component {
           <Link to="/signup" className="btn btn-success btn-lg">
             Signup
           </Link>
-          
+
         </div>
       </div>
     );

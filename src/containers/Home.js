@@ -71,6 +71,7 @@ export default class Home extends Component {
           <Link to="/signup" className="btn btn-success btn-lg">
             Signup
           </Link>
+          
         </div>
       </div>
     );
